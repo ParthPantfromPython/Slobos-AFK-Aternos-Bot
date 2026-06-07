@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Pant Nivas Guard",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Pant Nivas Guard",
     "password": "",
     "type": "offline"
   },
@@ -29,10 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm an Afk Bot Made to be online on the Server",
         "I like to play Minecraft!"
       ]
     },
